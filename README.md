@@ -1,4 +1,4 @@
-# djamo_tdd
+# Clean Code Todo Demo App
 
 A new Flutter project.
 
